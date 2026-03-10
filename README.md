@@ -170,14 +170,15 @@ This indicates the model provides a **reasonable forecasting accuracy**.
 
 ## 📂 Project Structure
 
-
+```
 Airline-Time-Series-Analysis/
 │
-├── Airline Time Series Analysis.ipynb
+├── Airline_Time_Series_Analysis.ipynb
 ├── Air_Passengers.csv
 ├── Airline_dataset.csv
 ├── README.md
-
+└── project_report.pdf
+```
 
 ---
 
